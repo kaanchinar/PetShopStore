@@ -1,0 +1,741 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Pets.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Pets.f3ybut6so5.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\assets\\Hero.png",
+      "PackagePath": "staticwebassets\\assets\\Hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\assets\\Logo.png",
+      "PackagePath": "staticwebassets\\assets\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\gijgo-materialba15.eot",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-materialba15.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\gijgo-materialba15.svg",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-materialba15.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\gijgo-materialba15.ttf",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-materialba15.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\gijgo-materialba15.woff",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-materialba15.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\about\\pet_care.png",
+      "PackagePath": "staticwebassets\\img\\about\\pet_care.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\adapt_icon\\1.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\adapt_icon\\2.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\adapt_icon\\3.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\background-img\\bg-img-2.html",
+      "PackagePath": "staticwebassets\\img\\background-img\\bg-img-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\background-img\\bg-img-3.html",
+      "PackagePath": "staticwebassets\\img\\background-img\\bg-img-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\banner\\bradcam2.html",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam2.html"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\banner\\bradcam3.html",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam3.html"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\banner\\contact_bg.png",
+      "PackagePath": "staticwebassets\\img\\banner\\contact_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\banner\\dog.png",
+      "PackagePath": "staticwebassets\\img\\banner\\dog.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\banner\\prise_bg.html",
+      "PackagePath": "staticwebassets\\img\\banner\\prise_bg.html"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\service\\bird.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\bird.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\service\\cat.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\cat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\service\\dog.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\service\\other.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\other.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\service\\service_icon_1.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\service\\service_icon_2.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\service\\service_icon_3.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\service\\service_icon_bg_1.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\slider\\slider-img-1.html",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-img-1.html"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\img\\team\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\img\\team\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\js\\scrollIt.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\source\\repos\\Pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Pets.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Pets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Pets.props",
+      "PackagePath": "build\\Pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Pets.props",
+      "PackagePath": "buildMultiTargeting\\Pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Pets.props",
+      "PackagePath": "buildTransitive\\Pets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
